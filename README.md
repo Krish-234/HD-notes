@@ -11,6 +11,7 @@ Backend
 Bun: A modern JavaScript runtime that is faster and provides integrated tooling.
 Prisma ORM: Used for database schema management, migrations, and type-safe data operations.
 PostgreSQL: A relational database deployed using Vercel Postgres.
+
 Features
 User Authentication:
 Signup/Login using email and OTP.
